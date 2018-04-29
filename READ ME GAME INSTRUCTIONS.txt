@@ -1,0 +1,10 @@
+Movement
+
+- WASD to move
+- Space to Jump
+- F to fire bullets
+- G to drop flag
+- R to respawn
+
+Purple Blocks - Increase Movement Speed for 5 seconds
+Red Blocks - Increase Fire rate for 5seconds
