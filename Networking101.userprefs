@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CTFGameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CTFNetworkManager.cs" Line="27" Column="82" />
+      <File FileName="Assets\Scripts\CTFGameManager.cs" Line="103" Column="10" />
+      <File FileName="Assets\Scripts\Flag.cs" Line="78" Column="24" />
+      <File FileName="Assets\Scripts\ObjectSpawner.cs" Line="37" Column="10" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="240" Column="6" />
+      <File FileName="Assets\Scripts\CustomNetworkTransformUpdate.cs" Line="58" Column="14" />
+      <File FileName="Assets\Scripts\BulletScript.cs" Line="8" Column="6" />
+      <File FileName="Assets\SpeedPickup.cs" Line="13" Column="13" />
+      <File FileName="Assets\Scripts\FiringPickup.cs" Line="13" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
